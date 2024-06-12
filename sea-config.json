@@ -1,0 +1,5 @@
+{
+  "main": "build/rendertron.js",
+  "output": "dist/sea-prep.blob",
+  "disableExperimentalSEAWarning": true
+}
